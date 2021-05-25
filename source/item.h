@@ -23,7 +23,8 @@
 //#include "iomap_otmm.h"
 #include "item_attributes.h"
 
-class Creature;
+class Monster;
+class Npc;
 class Border;
 class Tile;
 
